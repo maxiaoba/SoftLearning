@@ -97,5 +97,5 @@ tensorflow-probability==0.8.0
 termcolor==1.1.0
 toolz==0.9.0
 uritemplate==3.0.0
-urllib3==1.25.1
+urllib3==1.26.5
 Werkzeug==0.16.0
